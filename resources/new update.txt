@@ -1,0 +1,29 @@
+1- Made the answer table accept only letters in the answer rows.
+2- Readded the ability to have multiple answers in one question.
+3- Made the "keep_paragraph" function obselete. 
+	The program now depends on the "T" style to keep the tables in one page.
+4- Made "print to word" save every 100 questions instead of every question.
+5- Made "print to previous exams" be able to accept an empty answer line.
+6- Improved the ability to recognize answers using "//".
+7- The "edit" button now sees "abc" as an answer for one question.
+8- The "edit" button now accepts "#" as a placeholder for an empty answer.
+9- Secondary titles can be at the end.
+10- The answer tables have a style called "M3WAN ANSWER TABLE".
+11- Secondary titles have have a style and can be called using "2_".
+12- Primary titles have have a style and can be called using "1_".
+13- The program now can construct multiple 
+    answer tables instead of one big answer table at the end using "1_".
+
+
+
+--- TO DO LIST ---
+
+14- Highlight important words.
+15- Seperate answer line numbers. [✔]
+16- Make numbers restart at one when hitting a primary title.
+17- Sort choices and make it an option.
+18- Make a bar graph summarizing the output based on answer line and the exam.
+	Also make the first five answers appear on the graph.
+
+19- Make the program recognize "a+b" as the only way to have multiple answers. [✔]
+20- If there's a # make the answer table empty. [✔]
